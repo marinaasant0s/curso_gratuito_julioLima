@@ -11,4 +11,4 @@ Este repositório contém exemplos e aprendizados sobre testes automatizados uti
 ##### Pré-requisitos
 - Node.js
 - NPM (Node Package Manager)
-- WebDriver para o navegador desejado (Chrome,
+- WebDriver para o navegador desejado (Chrome)
